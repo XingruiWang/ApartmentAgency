@@ -453,7 +453,7 @@ a:hover {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #4bd680;
+  background: #14213d;
   color: #fff;
 }
 .back-to-top.active {
@@ -538,7 +538,7 @@ a:hover {
   border-radius: 0;
 }
 .btn.btn-b-n:hover {
-  background-color: #26a356;
+  background-color: #14213d;
   color: #ffffff;
 }
 
