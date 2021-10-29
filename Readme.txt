@@ -1,4 +1,10 @@
-Thanks for downloading this template!
+# Apartment Agency
+
+
+
+
+
+### Template Copyright
 
 Template Name: EstateAgency
 Template URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
